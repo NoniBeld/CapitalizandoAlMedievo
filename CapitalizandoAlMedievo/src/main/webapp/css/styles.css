@@ -1,56 +1,42 @@
 @charset "UTF-8";
 
-body{
-	
-	margin: 0;
-	background-color: white;
-	font-family: 'Times New Romans', Times, serif;
-	
+body {
+    margin: 0;
+    background-color: white;
+    font-family: 'Times New Roman', Times, serif;
 }
 
-h1{
-	
-	font-size: 80px;
-	transform: rotate(-45deg);
-	color:black;
-	text-aling: center;
-	margin-top: 150px;
-	trasition: color 0.3s ease;
-	
+h1 {
+    font-size: 80px;
+    transform: rotate(-45deg);
+    color: black;
+    text-align: center;
+    margin-top: 150px;
+    transition: color 0.3s ease;
 }
 
-
-h1:hover{
-	
-	color: red;
+h1:hover {
+    color: red;
 }
 
-
-footer{
-	
-	backgrouond-color: black;
-	color: white;
-	padding: 20px;
-	text-aling: center;
-	position: fixed;
-	bottom: 0;
-	width: 100%;
-		
+footer {
+    background-color: black;
+    color: white;
+    padding: 20px;
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
 }
 
-a{
-	
-	color: white;
-	font-size: 18px;
-	text-decoration: none;
-	margin: 0 15px;
-	transition: color 0.3s ease;
-	
+a {
+    color: white;
+    font-size: 18px;
+    text-decoration: none;
+    margin: 0 15px;
+    transition: color 0.3s ease;
 }
 
-a:hover{
-	
-	color: blue;
-	
+a:hover {
+    color: blue;
 }
-
